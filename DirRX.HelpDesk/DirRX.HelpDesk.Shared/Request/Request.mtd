@@ -96,6 +96,22 @@
       "Code": "Description",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "bd370ddd-5074-468d-86d5-9ca2b100fe14"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "a9698989-13d8-4d13-84bc-d61111aba471",
+      "Name": "Color",
+      "Code": "Color",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "b9a095f3-7e5a-48ff-879d-c00d530e1a3f"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "0316d5e2-85d3-4f2d-829d-a1e936372bbc",
+      "Name": "ColorTwo",
+      "Code": "ColorTwo",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "a9698989-13d8-4d13-84bc-d61111aba471"
     }
   ],
   "PublicStructures": [],

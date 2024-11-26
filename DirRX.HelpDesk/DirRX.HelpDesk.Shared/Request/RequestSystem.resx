@@ -73,4 +73,10 @@
   <data name="Property_Description" xml:space="preserve">
     <value>Описание</value>
   </data>
+  <data name="Property_Color" xml:space="preserve">
+    <value>Цвет</value>
+  </data>
+  <data name="Property_ColorTwo" xml:space="preserve">
+    <value>ColorTwo</value>
+  </data>
 </root>
