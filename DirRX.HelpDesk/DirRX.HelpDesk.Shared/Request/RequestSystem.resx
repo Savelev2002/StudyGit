@@ -76,4 +76,7 @@
   <data name="Property_Control" xml:space="preserve">
     <value>контроль</value>
   </data>
+  <data name="Property_ControlTwo" xml:space="preserve">
+    <value>Второй контроль</value>
+  </data>
 </root>
