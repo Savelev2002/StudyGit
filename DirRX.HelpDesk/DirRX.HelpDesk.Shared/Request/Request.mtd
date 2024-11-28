@@ -111,7 +111,7 @@
       "Name": "ControlTwo",
       "Code": "ControlTwo",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-      "PreviousPropertyGuid": "b9a095f3-7e5a-48ff-879d-c00d530e1a3f"
+      "PreviousPropertyGuid": "a2528de5-c03c-4690-8e12-57f98c464cbc"
     }
   ],
   "PublicStructures": [],
