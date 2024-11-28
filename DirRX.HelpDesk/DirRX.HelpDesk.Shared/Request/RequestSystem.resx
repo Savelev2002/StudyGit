@@ -73,4 +73,7 @@
   <data name="Property_Description" xml:space="preserve">
     <value>Описание</value>
   </data>
+  <data name="Property_Control" xml:space="preserve">
+    <value>контроль</value>
+  </data>
 </root>
